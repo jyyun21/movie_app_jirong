@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/movie_app_jirong/static/css/main.407d3250.chunk.css",
+    "main.js": "/movie_app_jirong/static/js/main.95101591.chunk.js",
+    "main.js.map": "/movie_app_jirong/static/js/main.95101591.chunk.js.map",
+    "runtime-main.js": "/movie_app_jirong/static/js/runtime-main.f3f2f670.js",
+    "runtime-main.js.map": "/movie_app_jirong/static/js/runtime-main.f3f2f670.js.map",
+    "static/js/2.800fc937.chunk.js": "/movie_app_jirong/static/js/2.800fc937.chunk.js",
+    "static/js/2.800fc937.chunk.js.map": "/movie_app_jirong/static/js/2.800fc937.chunk.js.map",
+    "index.html": "/movie_app_jirong/index.html",
+    "static/css/main.407d3250.chunk.css.map": "/movie_app_jirong/static/css/main.407d3250.chunk.css.map",
+    "static/js/2.800fc937.chunk.js.LICENSE.txt": "/movie_app_jirong/static/js/2.800fc937.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f3f2f670.js",
+    "static/js/2.800fc937.chunk.js",
+    "static/css/main.407d3250.chunk.css",
+    "static/js/main.95101591.chunk.js"
+  ]
+}
